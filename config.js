@@ -11,5 +11,5 @@
  */
 window.TRACK_CONFIG = {
   // Backend API URL (leave empty "" for automatic auto-detection)
-  apiUrl: "",
+  apiUrl: "https://abhinav-uniform-flow-backend.vercel.app",
 };
